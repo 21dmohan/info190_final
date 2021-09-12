@@ -1,2 +1,2 @@
 # info190_final
-Orality vs. Literacy in Dialogue Outline
+Exploring Spoken and Written Language through Computational Analysis
